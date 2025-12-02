@@ -9,36 +9,33 @@ l'objectif principal de notre projet est developper une application de gestion d
 cette application sera destinee aux etablissements scolaires telques les lycees, les universites, les colleges... et doit offir une interface simple, intuitive et securisee, utilisable sur windows et portable.
 
 
-2. Objectif du système
-_(AROLD)_
+2-OBEJECTIF DU SYSTEME
 
-3. Environnement technique
-_(Ange Michelle)_
+//AROLD
 
-4. Objectifs techniques
-_(Ange Michelle)_
 
-5. Utilisateurs et acteurs
-_(Divine la f..)_
+3-ACTEURS ET UTILISATEURS 
 
-6. Diagramme du contexte
-_(PRISCA)_
+//DIVINE LA F.
+https://github.com/INF151-projet/Cahier-de-charges/issues/2#issuecomment-3603671598
 
-7. Cas d'utilisation
-_(SERENA Divine)_
+4-BESIONS FONCTIONNELS
 
-8. Besoins fonctionnels
-_(Linda)_
+//ME
 
-9. Outils utilisés
-_(Rayan)_
 
-10. Problèmes possibles
-_(Suzanne)_
+5-BESOIN NON FONCTIONNELS
 
-11. Livrables attendus
-_(Martine)_
+//FREDY 
 
-12. Maquettes / Interfaces
-_(Ben et Divine Ides)_
+
+6-CONTRAINTES TECHNIQUES 
+
+//ANGE MICHELLE
+
+7-MAQUETTE 
+
+//DIVINE LE DELEGUE et EBEN
+
+
 
