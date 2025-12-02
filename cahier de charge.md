@@ -32,7 +32,7 @@ _(Ange Michelle)_
 
 5. Utilisateurs et acteurs
 _(Divine la f..)_
-
+https://github.com/INF151-projet/Cahier-de-charges/issues/2#issuecomment-3603671598
 6. Diagramme du contexte
 _(PRISCA)_
 
